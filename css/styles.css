@@ -65,11 +65,12 @@ li:hover ul#submenu {
   visibility: visible;
 }
 
-/*#submenu li {
-	float: none;
-	width: 100%;
+#submenu li {
+  float: none;
+  width: 100%;
 }
-#submenu a:hover {
+
+/*#submenu a:hover {
 	background: #DF4B05;
 }
 #submenu a {
