@@ -16,6 +16,7 @@
 .dropdownmenu ul, .dropdownmenu li {
   margin: 0;
   padding: 0;
+  padding-top: 40;
 }
 
 .dropdownmenu ul {
@@ -45,10 +46,11 @@
   transition: all .25s ease;
 }
 
-/*.dropdownmenu li:hover a {
-	background: #000000;
+.dropdownmenu li:hover a {
+  background: #000000;
 }
-#submenu {
+
+/*#submenu {
 	left: 0;
 	opacity: 0;
 	position: absolute;
