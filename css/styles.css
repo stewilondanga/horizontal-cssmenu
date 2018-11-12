@@ -24,12 +24,13 @@
   width: 100%;
 }
 
-/*.dropdownmenu li {
-	float: left;
-	position: relative;
-	width:auto;
+.dropdownmenu li {
+  float: left;
+  position: relative;
+  width: auto;
 }
-.dropdownmenu a {
+
+/*.dropdownmenu a {
 	background: #30A6E6;
 	color: #FFFFFF;
 	display: block;
