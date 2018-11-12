@@ -59,11 +59,11 @@
   z-index: 1;
 }
 
-/*li:hover ul#submenu {
-	opacity: 1;
-	top: 40px;	/* adjust this as per top nav padding top & bottom comes */
-
-/*visibility: visible;
+li:hover ul#submenu {
+  opacity: 1;
+  top: 40px;
+  /* adjust this as per top nav padding top & bottom comes */
+  /*visibility: visible;
 }
 #submenu li {
 	float: none;
